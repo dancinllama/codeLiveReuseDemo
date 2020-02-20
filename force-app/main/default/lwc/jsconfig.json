@@ -1,0 +1,41 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "baseUrl": ".",
+        "paths": {
+            "c/path": [
+                "path/path.js"
+            ],
+            "c/recordInputForm": [
+                "recordInputForm/recordInputForm.js"
+            ],
+            "c/address": [
+                "address/address.js"
+            ],
+            "c/form1": [
+                "form1/form1.js"
+            ],
+            "c/helpText": [
+                "helpText/helpText.js"
+            ],
+            "c/errorPanel": [
+                "errorPanel/errorPanel.js"
+            ],
+            "c/form2": [
+                "form2/form2.js"
+            ],
+            "c/form3": [
+                "form3/form3.js"
+            ]
+        }
+    },
+    "include": [
+        "**/*",
+        "../../../../.sfdx/typings/lwc/**/*.d.ts"
+    ],
+    "typeAcquisition": {
+        "include": [
+            "jest"
+        ]
+    }
+}

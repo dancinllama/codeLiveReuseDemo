@@ -1,0 +1,31 @@
+<template>
+    <template if:true={displaySpinner}>
+        <lightning-spinner variant="brand"></lightning-spinner>
+    </template>
+    <lightning-record-edit-form object-api-name={objectApiName} onload={handleOnLoad}>
+        <div class="slds-grid slds-grid_align-spread slds-grid_vertical-stretch slds-wrap">
+            <template for:each={fieldsToDisplay} for:item="field">
+                <div class={field.css}  key={field.name}>
+                    <template if:true={field.name}>
+                        <template if:true={field.addressFields}>
+                            <c-address data-field={field.name} key={field.name} addr={field.value} required={field.required} onchange={handleFieldChange}></c-address>
+                        </template>
+                        <template if:false={field.addressFields}>
+                            <template if:true={field.label}>
+                                <label class="slds-form-element_stacked slds-form-element"><template if:true={field.required}><abbr title="required" class="slds-required">*</abbr></template>{field.label}</label>
+                            </template>
+                            <lightning-input-field
+                                field-name={field.name}
+                                onchange={handleFieldChange}
+                                data-field={field.name}
+                                value={field.value}
+                                variant={field.variant}
+                                required={field.required}
+                            ></lightning-input-field>
+                        </template>
+                    </template>
+                </div>
+            </template>
+        </div>
+    </lightning-record-edit-form>
+</template>

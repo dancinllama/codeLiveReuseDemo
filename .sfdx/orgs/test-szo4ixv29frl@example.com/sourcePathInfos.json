@@ -1,0 +1,703 @@
+[
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app",
+        {
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582202200157,
+            "changeTime": 1582202200157,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582202200157,
+            "changeTime": 1582202200157,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582202200158,
+            "changeTime": 1582202200158,
+            "contentHash": "7334b1e8716ee057f8863fce77d3933d5bd9d984",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\aura",
+        {
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582202200158,
+            "changeTime": 1582202200158,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582202220796,
+            "changeTime": 1582202220796,
+            "contentHash": "56f2d335ffa27c20b4ea310cf0214fa96f325894",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3",
+        {
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1582202219623,
+            "changeTime": 1582202219623,
+            "contentHash": "8499f14caadb26edb7610391b24cea2d696a53e6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\labels",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\labels",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202399361,
+            "changeTime": 1582202399399,
+            "contentHash": "c3835cc038e1e9f66a66938c26f39887d32c77d8"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202399345,
+            "changeTime": 1582202399394,
+            "contentHash": "c6f71d85aeaa3b60db80eedad5ebb75e321f3eb0"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202399347,
+            "changeTime": 1582202399347,
+            "contentHash": "70f132fe13e692866a539996a6b9a05b46076a07"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202399356,
+            "changeTime": 1582202399356,
+            "contentHash": "10c6499a1ac99442693c95126b511c14b2156033"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\address",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\address",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202343454,
+            "changeTime": 1582202346614,
+            "contentHash": "61cca535b5c04d0a52d5329408a44aebd6aeb4c6"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\errorPanel",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\errorPanel",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202343463,
+            "changeTime": 1582202346619,
+            "contentHash": "e921a21a953fed8b9602bfc538894f24e1350462"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form1",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form1",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202343470,
+            "changeTime": 1582202346624,
+            "contentHash": "70dec679a46ac08e3d4709a6e252617c5952f590"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form2",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form2",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202343478,
+            "changeTime": 1582202346628,
+            "contentHash": "ddf4a0ae4640fdf89cd8eb9be9c5f7eac0b65be2"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form3",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form3",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202343487,
+            "changeTime": 1582202346632,
+            "contentHash": "cea526f8e4feb7108171c05b1d78330c1bd99faf"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\helpText",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\helpText",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202343494,
+            "changeTime": 1582202346636,
+            "contentHash": "fcc873647f74ee1b522817fad62beaf340f9fa44"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\path",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\path",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202343500,
+            "changeTime": 1582202346640,
+            "contentHash": "59e7d25cacd80ae97a4195335049f0ce6e0afcdc"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\recordInputForm",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\recordInputForm",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1582202343506,
+            "changeTime": 1582202346646,
+            "contentHash": "eaf4a8c0254f380ace7e8d6bfa15ace4d629d435"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\labels\\CustomLabels.labels-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 610,
+            "modifiedTime": 1582175809068,
+            "changeTime": 1582175809068,
+            "contentHash": "0f522387bf84298094985a72d96f91d3048fae1d"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields\\City__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields\\City__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 360,
+            "modifiedTime": 1582175809076,
+            "changeTime": 1582175809076,
+            "contentHash": "914789bde0cd27a9cd827918c3e5f0cc086cdd4a"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 366,
+            "modifiedTime": 1582175809076,
+            "changeTime": 1582175809076,
+            "contentHash": "bcd6f1084f1421e42c007d1552f05be2e520885b"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields\\PostalCode__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields\\PostalCode__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 371,
+            "modifiedTime": 1582175809077,
+            "changeTime": 1582175809077,
+            "contentHash": "affc58a14f03ffa194efec12bd9856a222332765"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields\\State__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields\\State__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 362,
+            "modifiedTime": 1582175809077,
+            "changeTime": 1582175809077,
+            "contentHash": "99a131e612ceffa04c6e944ae8ec3e4f465e2309"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields\\Street__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\objects\\Lead\\fields\\Street__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 364,
+            "modifiedTime": 1582175809078,
+            "changeTime": 1582175809078,
+            "contentHash": "164ca250aeb5291ba2aa552d68f6decde2998034"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\address\\address.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\address\\address.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1000,
+            "modifiedTime": 1581375966818,
+            "changeTime": 1581375966818,
+            "contentHash": "26ef9d63e2708ffdfe35e264c43bd368dce225f9"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\address\\address.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\address\\address.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 15337,
+            "modifiedTime": 1581375978048,
+            "changeTime": 1581375978048,
+            "contentHash": "afd8fe8cf3e6370f5e8d52b1ae3b5d642c70e769"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\address\\address.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\address\\address.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1581375956775,
+            "changeTime": 1581375956775,
+            "contentHash": "9804da2687b259ef8e0bbe4b6873f768d2062568"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 256,
+            "modifiedTime": 1581379264840,
+            "changeTime": 1581379264840,
+            "contentHash": "a886fbe1cbfa19ceeec141b9bbe9548421b7b919"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 609,
+            "modifiedTime": 1582174934003,
+            "changeTime": 1582174934003,
+            "contentHash": "920b9cabc6ad14e640b6f2de1ed620a123ff947a"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 470,
+            "modifiedTime": 1581379102199,
+            "changeTime": 1581379102199,
+            "contentHash": "bc85b87bf8925cc45faaf744fe1f8d8043be1602"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\errorPanel\\errorPanel.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1581379099475,
+            "changeTime": 1581379099475,
+            "contentHash": "9804da2687b259ef8e0bbe4b6873f768d2062568"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form1\\form1.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form1\\form1.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1019,
+            "modifiedTime": 1581381685517,
+            "changeTime": 1581381685517,
+            "contentHash": "ebf9ee7022b1f9dfe55daa5d1c59d2d1b114c7a7"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form1\\form1.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form1\\form1.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1114,
+            "modifiedTime": 1582175493247,
+            "changeTime": 1582175493247,
+            "contentHash": "aa36a3ba21f327aa3c26cdddd7ec396718f64660"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form1\\form1.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form1\\form1.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2771,
+            "modifiedTime": 1582172780078,
+            "changeTime": 1582172780078,
+            "contentHash": "5f15a756fc8bfca3e082e62f3ca0c24782f65d29"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form1\\form1.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form1\\form1.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 687,
+            "modifiedTime": 1581376287273,
+            "changeTime": 1581376287273,
+            "contentHash": "a0ccd1955fc91ecaee518b0010c1ccbbed336b6a"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form2\\form2.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form2\\form2.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 566,
+            "modifiedTime": 1581381657100,
+            "changeTime": 1581381657100,
+            "contentHash": "a3eafbb19fee2a5d8689c31a836edab8980254e4"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form2\\form2.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form2\\form2.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 3476,
+            "modifiedTime": 1582172791038,
+            "changeTime": 1582172791038,
+            "contentHash": "fd17af258f134054677fe34fbbda5589ba65fde3"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form2\\form2.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form2\\form2.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5577,
+            "modifiedTime": 1582173711042,
+            "changeTime": 1582173711042,
+            "contentHash": "f21ac2e5e6814452717a5aaa7fa6ec7f576063ac"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form2\\form2.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form2\\form2.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 687,
+            "modifiedTime": 1581381641919,
+            "changeTime": 1581381641919,
+            "contentHash": "a0ccd1955fc91ecaee518b0010c1ccbbed336b6a"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form3\\form3.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form3\\form3.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 566,
+            "modifiedTime": 1582174671528,
+            "changeTime": 1582174671528,
+            "contentHash": "a3eafbb19fee2a5d8689c31a836edab8980254e4"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form3\\form3.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form3\\form3.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2930,
+            "modifiedTime": 1582175501802,
+            "changeTime": 1582175501802,
+            "contentHash": "ba48ccc2f35959f018504a4224d2e78c1f644b91"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form3\\form3.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form3\\form3.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 5579,
+            "modifiedTime": 1582174722629,
+            "changeTime": 1582174722629,
+            "contentHash": "716c46a6184b2a7a1877709a0f7892476ad2689a"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form3\\form3.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\form3\\form3.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 687,
+            "modifiedTime": 1581382568566,
+            "changeTime": 1581382568566,
+            "contentHash": "a0ccd1955fc91ecaee518b0010c1ccbbed336b6a"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\helpText\\helpText.css",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\helpText\\helpText.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 213,
+            "modifiedTime": 1581377340515,
+            "changeTime": 1581377340515,
+            "contentHash": "b8925069076b9f615ee10b55e45378b62845b065"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\helpText\\helpText.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\helpText\\helpText.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 806,
+            "modifiedTime": 1581377368738,
+            "changeTime": 1581377368738,
+            "contentHash": "4a54fbdc797a65199e67b833a0e90f1851b02620"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\helpText\\helpText.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\helpText\\helpText.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 405,
+            "modifiedTime": 1581377378664,
+            "changeTime": 1581377378664,
+            "contentHash": "2b161b74e1a78369fba32d16923f0e3501df66e4"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\helpText\\helpText.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\helpText\\helpText.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1581377320137,
+            "changeTime": 1581377320137,
+            "contentHash": "9804da2687b259ef8e0bbe4b6873f768d2062568"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\path\\path.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\path\\path.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1286,
+            "modifiedTime": 1582175523596,
+            "changeTime": 1582175523596,
+            "contentHash": "3a58fb9080408caedb0942dcf893977dab07d7ab"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\path\\path.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\path\\path.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2425,
+            "modifiedTime": 1581375840039,
+            "changeTime": 1581375840039,
+            "contentHash": "cfdb7829e0fef3f2b359f57f600e4a2b28c13aca"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\path\\path.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\path\\path.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1581375821388,
+            "changeTime": 1581375821388,
+            "contentHash": "9804da2687b259ef8e0bbe4b6873f768d2062568"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\recordInputForm\\recordInputForm.html",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\recordInputForm\\recordInputForm.html",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 1753,
+            "modifiedTime": 1582175531323,
+            "changeTime": 1582175531323,
+            "contentHash": "ccd536521902db83e9e844c53a929b6376e9970b"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\recordInputForm\\recordInputForm.js",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\recordInputForm\\recordInputForm.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 2900,
+            "modifiedTime": 1581375931491,
+            "changeTime": 1581375931491,
+            "contentHash": "0da66ec70f075dc98739fdd25e1c8ca686e6ac15"
+        }
+    ],
+    [
+        "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\recordInputForm\\recordInputForm.js-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "c:\\Users\\James\\workspace\\cl3\\force-app\\main\\default\\lwc\\recordInputForm\\recordInputForm.js-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 208,
+            "modifiedTime": 1581375871366,
+            "changeTime": 1581375871366,
+            "contentHash": "9804da2687b259ef8e0bbe4b6873f768d2062568"
+        }
+    ]
+]

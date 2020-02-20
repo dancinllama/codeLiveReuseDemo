@@ -1,0 +1,30 @@
+<!--
+  @File Name          : address.html
+  @Description        : 
+  @Author             : James Loghry (Demand Chain)
+  @Group              : 
+  @Last Modified By   : James Loghry (Demand Chain)
+  @Last Modified On   : 2/10/2020, 5:06:06 PM
+  @Modification Log   : 
+  Ver       Date            Author      		    Modification
+  1.0    12/17/2019   James Loghry (Demand Chain)     Initial Version
+-->
+<template>
+    <lightning-input-address
+        address-label={addressLabel}
+        street-label={streetLabel}
+        city-label={cityLabel}
+        country-label={countryLabel}
+        province-label={provinceLabel}
+        postal-code-label={postalCodeLabel}
+        country-options={countryOptions}
+        province-options={provinceOptions}
+        street={addr.street}
+        city={addr.city}
+        country={addr.country}
+        province={addr.province}
+        postal-code={addr.postalCode}
+        variant={variant}
+        required={required}
+    ></lightning-input-address>
+</template>

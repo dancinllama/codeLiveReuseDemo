@@ -1,0 +1,71 @@
+<!--
+  @File Name          : seedUnitOrderForm.html
+  @Description        : 
+  @Author             : James Loghry (Demand Chain)
+  @Group              : 
+  @Last Modified By   : James Loghry (Demand Chain)
+  @Last Modified On   : 2/19/2020, 10:26:30 PM
+  @Modification Log   : 
+  Ver       Date            Author      		    Modification
+  1.0    12/17/2019   James Loghry (Demand Chain)     Initial Version
+-->
+<template>
+    <lightning-card class="slds-p-around_small">
+
+        <c-path default-steps={steps} onstepchange={handleStepChange}></c-path>
+        <lightning-messages></lightning-messages>
+        <lightning-record-edit-form object-api-name="Lead" onsubmit={handleSubmit}>
+            <lightning-card title={stepLabel}>
+
+                <c-error-panel friendly-message="An error occurred" errors={errors}></c-error-panel>
+
+                <template if:true={displayNewAddress}>
+                    <div class="slds-grid slds-grid_align-spread slds-grid_vertical-stretch slds-wrap">
+                        <div class="slds-col slds-size_12-of-12 slds-p-around_small">
+                            <button class="slds-button slds-button_brand" onclick={copyAddress}>
+                                <lightning-icon
+                                    icon-name="utility:copy"
+                                    variant="inverse"
+                                    size="small"
+                                    class="slds-p-horizontal_x-small"
+                                ></lightning-icon>
+                                Copy Address
+                            </button>
+                        </div>
+                    </div>
+                </template>
+
+                <c-record-input-form record={lead} fields={fields} onrecordchange={handleRecordChange}></c-record-input-form>
+                <div class="slds-grid slds-grid_align-spread slds-grid_vertical-stretch slds-wrap">
+                    <div class="slds-col slds-size_12-of-12 slds-p-around_small">
+                        <template if:true={displayNewAddress}>
+                            <button class="right slds-button slds-button_brand" type="submit">
+                                Submit
+                            </button>
+                        </template>
+                        <template if:true={hasNext}>
+                            <button class="right slds-button slds-button_brand" onclick={next}>
+                                Next
+                                <lightning-icon
+                                    icon-name="utility:chevronright"
+                                    variant="inverse"
+                                    size="small"
+                                ></lightning-icon>
+                            </button>
+                        </template>
+                        <template if:true={hasPrev}>
+                            <button class="right slds-button slds-button_brand" onclick={prev}>
+                                <lightning-icon
+                                    icon-name="utility:chevronleft"
+                                    variant="inverse"
+                                    size="small"
+                                ></lightning-icon>
+                                Previous
+                            </button>
+                        </template>
+                    </div>
+                </div>
+            </lightning-card>
+        </lightning-record-edit-form>
+    </lightning-card>
+</template>
