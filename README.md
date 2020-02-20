@@ -23,6 +23,4 @@ sfdx force:source:push
 sfdx force:org:open
 ```
 
-5. In **Setup**, select **All Communities**. Click on **Builder** for the _Kansas_ Community.
-
-6. Click **Publish**, to publish the community. Click on the workspace icon in the top left corner, then click **View E-Bikes** to see the live community.
+5. Optional: Create a community in the scratch org and use form1, form2, and form3 components
